@@ -49,13 +49,6 @@ SPIFFE is a [graduated](https://www.cncf.io/projects/spiffe/) project of the [Cl
 * [go-spiffe](https://github.com/spiffe/go-spiffe/tree/main/v2): Golang client libraries.
 * [java-spiffe](https://github.com/spiffe/java-spiffe): Java client libraries
 
-### Communications
-
-  * [Slack](https://spiffe.slack.com) (Join [here](https://slack.spiffe.io)).
-  * <announce@spiffe.io> (View or join [here](https://groups.google.com/a/spiffe.io/forum/#!forum/announce)).
-  * <dev-discussion@spiffe.io> (View or join [here](https://groups.google.com/a/spiffe.io/forum/#!forum/dev-discussion)).
-  * <user-discussion@spiffe.io> (View or join [here](https://groups.google.com/a/spiffe.io/forum/#!forum/user-discussion)).
-
 ### Getting Help
 
 Join us on the Slack [#help](https://spiffe.slack.com/archives/CBNCC2V17) channel to ask questions or help others. We're happy to help, hear your ideas and challenges, and be in the middle of all the action.
@@ -71,6 +64,15 @@ Each month on the 3rd Thursday, we host SPIFFE/SPIRE Office Hours, where you can
 * [CONTRIBUTING](/CONTRIBUTING.md)
 * [GOVERNANCE](/GOVERNANCE.md)
 
+## Community
+
+* [Slack](https://spiffe.slack.com) (Join [here](https://slack.spiffe.io)).
+* <announce@spiffe.io> (View or join [here](https://groups.google.com/a/spiffe.io/forum/#!forum/announce)).
+* <dev-discussion@spiffe.io> (View or join [here](https://groups.google.com/a/spiffe.io/forum/#!forum/dev-discussion)).
+* <user-discussion@spiffe.io> (View or join [here](https://groups.google.com/a/spiffe.io/forum/#!forum/user-discussion)).
+  
+**Follow the SPIFFE Project** You can find us on [Github](https://github.com/spiffe/) and [Twitter](https://twitter.com/SPIFFEio).
+
 ### SIGs & Working Groups<a name="sigs"></a>
 
 Most community activity is organized into Special Interest Groups (SIGs), time-bounded working groups, and our monthly community-wide meetings. SIGs follow these [guidelines](GOVERNANCE.md#special-interest-groups-sigs), although each may operate differently depending on their needs and workflows. Each group's material can be found in the [/community](/community) directory of this repository.
@@ -81,9 +83,8 @@ Most community activity is organized into Special Interest Groups (SIGs), time-b
 | [SIG-Spec](/community/sig-spec/README.md) | [Evan Gilman](https://github.com/evan2645) (SPIRL) | [Here](https://groups.google.com/a/spiffe.io/forum/#!forum/sig-specification) | [Here](https://spiffe.slack.com/messages/sig-spec) | [Notes](https://docs.google.com/document/d/1f64vbyn5sOb8Mr1H3mGGGul3vTKo4r6cTBcUV3N9OFo) |
 | [SIG-SPIRE](/community/sig-spire/README.md) | [Daniel Feldman](https://github.com/dfeldman) (HPE) | [Here](https://groups.google.com/a/spiffe.io/forum/#!forum/sig-spire) | [Here](https://spiffe.slack.com/messages/spire) | [Notes](https://docs.google.com/document/d/1IgpCkvSRSoY9Xd16gFQJJ1KP8sLZ7EE39cEjBK_UIg4) |
 
-**Follow the SPIFFE Project** You can find us on [Github](https://github.com/spiffe/) and [Twitter](https://twitter.com/SPIFFEio).
-
 ## SPIFFE SSC
+
 The [SPIFFE Steering Committee](/GOVERNANCE.md#the-spiffe-steering-committee-ssc) meets on a regular cadence to review project progress, address maintainer needs, and provide feedback on strategic direction and industry trends. Community members interested in joining this call can find details below.
 
 * Calendar: [iCal](https://calendar.google.com/calendar/ical/c_gck7v87m9obq6n3hpo01l7csus%40group.calendar.google.com/public/basic.ics) or [Browser-based](https://calendar.google.com/calendar/embed?src=c_gck7v87m9obq6n3hpo01l7csus%40group.calendar.google.com&ctz=America%2FChicago)
