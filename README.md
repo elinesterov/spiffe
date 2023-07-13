@@ -56,6 +56,16 @@ SPIFFE is a [graduated](https://www.cncf.io/projects/spiffe/) project of the [Cl
   * <dev-discussion@spiffe.io> (View or join [here](https://groups.google.com/a/spiffe.io/forum/#!forum/dev-discussion)).
   * <user-discussion@spiffe.io> (View or join [here](https://groups.google.com/a/spiffe.io/forum/#!forum/user-discussion)).
 
+### Getting Help
+
+Join us on the Slack [#help](https://spiffe.slack.com/archives/CBNCC2V17) channel to ask questions or help others. We're happy to help, hear your ideas and challenges, and be in the middle of all the action.
+
+Each month on the 3rd Thursday, we host SPIFFE/SPIRE Office Hours, where you can ask questions, get immediate help, learn about new functionality or integrations, and meet other community members.
+
+* [#help](https://spiffe.slack.com/archives/CBNCC2V17) channel on [SPIFFE Slack](https://spiffe.slack.com)
+* [SPIFFE/SPIRE Office Hours Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_q2don6m2b33gljqftauib3hnuk@group.calendar.google.com&ctz=America/Los_Angeles)
+* [SPIFFE/SPIRE Office hours Calendar ICS](https://calendar.google.com/calendar/ical/c_q2don6m2b33gljqftauib3hnuk%40group.calendar.google.com/public/basic.ics) - Add to your calendar
+
 ### Contribute
 
 * [CONTRIBUTING](/CONTRIBUTING.md)
